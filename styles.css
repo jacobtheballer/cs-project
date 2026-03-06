@@ -1,5 +1,9 @@
 body {
   backroundcolor: #27D6F5;
-  color: red;
+
   font-family:"times new roman":
+}
+
+p { 
+  color: red;
 }
